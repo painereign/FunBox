@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.19.2",
     "express": "^4.17.1",
-    "password-generator": "^2.3.2"
+    "password-generator": "^2.3.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   },
   "devDependencies": {},
   "scripts": {
